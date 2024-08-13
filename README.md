@@ -44,39 +44,19 @@ To complement the project, please include screenshots of the following:
 To help visualize the project and provide a clearer understanding, here are the screenshots of the various stages:
 
 1. **Database and Schema Creation**
-   - ![Database and Schema Creation](screenshots/database_schema_creation/screenshot1.png)
+   - ![Database and Schema Creation](ss/schemaandtable.png)
 
-2. **Table Definitions**
-   - ![Table Definitions](screenshots/table_definitions/screenshot1.png)
+2. **Query Execution**
+   - ![Query Execution](ss/query1.png)
+   - ![Query Execution](ss/query2.png)
+   - ![Query Execution](ss/query3.png)
 
-3. **Data Insertion**
-   - ![Data Insertion](screenshots/data_insertion/screenshot1.png)
-   - ![Data Insertion](screenshots/data_insertion/screenshot2.png)
+3. **Task Creation**
+   - ![Task Creation](ss/taskcreation.pngg)
 
-4. **Query Execution**
-   - ![Query Execution](screenshots/query_execution/screenshot1.png)
-   - ![Query Execution](screenshots/query_execution/screenshot2.png)
-   - ![Data Insertion](screenshots/data_insertion/screenshot2.png)
+4. **Task Scheduling**
+   - ![Task Scheduling](ss/taskresume.png)
 
-5. **Task Scheduling**
-   - ![Task Scheduling](screenshots/task_scheduling/screenshot1.png)
-   
-
-### Screenshot Placement
-
-Ensure your screenshots are organized in the following directory structure:
-
-- `screenshots/database_schema_creation/`
-- `screenshots/table_definitions/`
-- `screenshots/data_insertion/`
-- `screenshots/query_execution/`
-- `screenshots/task_scheduling/`
-
-Each folder should contain screenshots related to the respective project component.
-
-## Conclusion
-
-These screenshots provide a visual reference for the steps involved in the Employee Management System project. By following the linked images, you can better understand the processes and results of each stage.
 
 
 
@@ -84,6 +64,4 @@ These screenshots provide a visual reference for the steps involved in the Emplo
 
 This project provides a practical introduction to Snowflake's capabilities, focusing on essential database operations. By following the steps outlined, users can gain hands-on experience with Snowflake in a manageable and straightforward manner.
 
----
 
-Feel free to adjust the content or folder names based on your specific requirements or preferences!
